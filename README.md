@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋, I am Mainul Hasan Sakib
-#### A junior front-end developer, curious learner of Javascript .
+#### A junior front-end web developer, curious learner of Javascript .
 
 
 
