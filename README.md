@@ -18,8 +18,8 @@ Skills: REACT / JS / BOOTSTRAP / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainulHasanSakib)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mainulHasanSakib&show_icons=true)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mainulHasanSakib&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mainulHasanSakib)  
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mainulHasanSakib)  
 
-![Profile views](https://gpvc.arturio.dev/mainulHasanSakib)  
+[![Profile views](https://gpvc.arturio.dev/mainulHasanSakib)  
